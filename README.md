@@ -213,3 +213,4 @@ app.run();
   - [커밋 메시지 컨벤션](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) 가이드를 참고해 커밋 메시지를 작성한다.
 - 과제 진행 및 제출 방법은 [프리코스 과제 제출](https://docs.google.com/document/d/1cmg0VpPkuvdaetxwp4hnyyFC_G-1f2Gr8nIDYIWcKC8/edit?usp=sharing) 문서를 참고한다.
 - **`docs/how-to-solve.md`에서 미션 해결 전략 문항에 답변을 필수로** 작성한다.
+# javascript-onecall-pr
